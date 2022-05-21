@@ -38,18 +38,16 @@ Your exact chances to win dynamically change in real-time based on how many othe
 
 ### The total number of prizes being rewarded?
 
-The number of total prizes can be changed as they find desirable by the community. There will be six tiers, with each level having a percentage of rewards allotted to that tier. The table below represents the Tier, number of winners, and amount dedicated to that Tier.&#x20;
+The number of total prizes can be changed as they find desirable by the community. There will be six tiers, with each level having a percentage of rewards allotted to that tier. The table below represents the Tier, number of winners, and amount dedicated to that Tier. By using this algorithm, we can have **364** winners. Let's assume that the total rewards are 10,000 SCRTS in the example below.
 
-| Tier | Number of winners | Percentage of Rewards |
-| :--: | :---------------: | :-------------------: |
-|   0  |         1         |           20          |
-|   1  |         3         |           10          |
-|   2  |         9         |           14          |
-|   3  |         27        |           12          |
-|   4  |         81        |           19          |
-|   5  |        243        |           25          |
-
-Using this method, we can have **364** winners. Let's say the total reward is 10,000 SCRTS. Then the 1 winner will win 2000 SCRTS, 3 will win 333.3 SCRTS each,  9 will win 155 SCRTS each, 27 will win 44.4 SCRTS each, and 81 will win 23.5 SCRTS each, and 234 will win 10.2 SCRT each.&#x20;
+| Tier | Percentage  | Number of winners | Prize per winner |
+| :--: | :---------: | :---------------: | :--------------: |
+|   0  |     20%     |         1         |      2000.0      |
+|   1  |     10%     |         3         |       333.3      |
+|   2  |     14%     |         9         |       155.6      |
+|   3  |     12%     |         27        |       44.4       |
+|   4  |     19%     |         81        |       23.5       |
+|   5  |     25%     |        243        |       10.2       |
 
 NOTE: SINCE THE WINNERS ARE LIMITED BY NUMBER, THE FIRST MOVER'S ADVANTAGE WILL CERTAINLY BENEFIT THE USER.
 
