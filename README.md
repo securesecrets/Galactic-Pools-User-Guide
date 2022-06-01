@@ -24,3 +24,5 @@ Replacing "[prize-linked savings accounts](https://en.wikipedia.org/wiki/Prize-l
 
 💉 Users get a specific boost next round if they haven't won any previous prize round.
 
+<mark style="color:red;">TODO: Add some graphics here.</mark>
+
