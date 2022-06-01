@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Ideology and Roadmap
 
 ### Ideology
