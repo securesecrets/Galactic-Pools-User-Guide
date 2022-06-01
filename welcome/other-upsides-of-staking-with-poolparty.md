@@ -1,4 +1,4 @@
-# Other Upsides of Staking with PoolParty
+# ⬆ Other Upsides of Staking with PoolParty
 
 ### &#x20; There will be at least 3 other benefits of staking with us.
 

@@ -4,7 +4,7 @@ description: >-
   DeFi.
 ---
 
-# About PoolParty
+# 🎉 About PoolParty
 
 **REMINDER: THIS IS A DRAFT OF THE POOLPARTY USER GUIDE.  A FEW MODIFICATIONS COULD BE EXPECTED IN THE COMING FUTURE.**
 
