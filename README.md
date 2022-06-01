@@ -1,5 +1,7 @@
 ---
-description: A No-loss lottery is replacing boring saving accounts with the power of DeFi.
+description: >-
+  A No-loss protocol that is replacing boring saving accounts with the power of
+  DeFi.
 ---
 
 # About PoolParty
@@ -10,10 +12,15 @@ description: A No-loss lottery is replacing boring saving accounts with the powe
 
 PoolParty is a decentralized and open-source blockchain protocol for prize-linked savings.&#x20;
 
-Replacing "[prize-linked savings accounts](https://en.wikipedia.org/wiki/Prize-linked\_savings\_account)", all depositors are offered a chance to win prizes without risking their deposited funds. This is possible because prizes are made up of the staking rewards that accrue on all deposited funds.
+Replacing "[prize-linked savings accounts](https://en.wikipedia.org/wiki/Prize-linked\_savings\_account)," all depositors are offered a chance to win prizes without risking their deposited tokens. This is possible because prizes are made up of the staking rewards.
 
-:coin: User deposits their coins into the pool.
+🏦 User deposits their tokens into the pool contract.
 
-📈 Staking rewards accrues on all deposits.
+📈 Pool contract earns staking rewards from the tokens deposited.
 
 🏆 The rewards are randomly awarded as prizes to the users.
+
+🖼 Earn XP based on the liquidity provided; uses XP to Upgrade their customizable DUCKY NFT.
+
+💉 Users get a specific boost next round if they haven't won any previous prize round.
+
