@@ -1,7 +1,5 @@
 ---
-description: >-
-  A No-loss protocol that is replacing boring saving accounts with the power of
-  DeFi.
+description: Killing Boring saving accounts with the power of DeFi.
 ---
 
 # About PoolParty
