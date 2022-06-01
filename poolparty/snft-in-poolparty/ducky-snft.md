@@ -20,5 +20,5 @@ Under the initial XP model, XP would be distributed according to a “thirdening
 
 This XP will be distributed among the different Pools of the protocol. The entire distribution structure is yet to be decided by the team and advisors.
 
-The number of good stuff users get will be directly proportional to the XP they have.
+The number of good stuff users get will be directly proportional to their XP.
 
