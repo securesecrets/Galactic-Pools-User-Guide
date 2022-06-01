@@ -5,4 +5,4 @@ coverY: 0
 
 # Shade Protocol X PoolParty
 
-...
+Coming Soon
