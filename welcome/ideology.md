@@ -24,7 +24,7 @@ In the future, We aim to expand vertically and horizontally by adding more highe
 
 5\) Moving to other Cosmos chains like JUNO and EVMOS.
 
-6\) Release of a utility token. Allocation of the token will be directly proportional to the XP your DUCKY sNFT has.&#x20;
+6\) Release of a token. Allocation of the token will be directly proportional to the XP your DUCKY sNFT has.&#x20;
 
 7\) More to follow 🤫
 
