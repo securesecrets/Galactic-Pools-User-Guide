@@ -18,5 +18,5 @@ Initial sNFT would be primary and need XP(Experience Points) to upgrade/customiz
 
 Under the initial XP model, XP would be distributed according to a “thirdening” schedule. Similar to Bitcoin’s halvening, where token issuance is decreased by half every four years, in PoolParty, the XP distribution will be cut by ⅓ every two months.
 
-This XP will be distributed among the different Pools of the protocol. The entire distribution structure is yet to be decided by the Team and advisors.
+This XP will be distributed among the different Pools of the protocol. The entire distribution structure is yet to be decided by the team and advisors.
 
