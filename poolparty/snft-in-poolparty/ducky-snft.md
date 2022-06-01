@@ -10,5 +10,13 @@ Users have to stake 30 days to mint one of these, or they can buy one from stash
 
 ### What are XP(Experience Points)?
 
-Initial sNFT would be primary and need XP(Experience Points) to upgrade/customize the NFT avatar. Higher the XP points are more new traits, and gadgets start to get unlocked. Higher the XP gets more than
+Every user will get a specific XP based on the % of liquidity they provided during the round. Each pool of the protocol will receive a certain amount of XP. XP supply will be finite, so very few users will have the rarest traits and gadgets.
+
+Initial sNFT would be primary and need XP(Experience Points) to upgrade/customize the NFT avatar. Higher the XP points are more new traits, and gadgets start to get unlocked.
+
+### XP Distribution Schedule
+
+Under the initial XP model, XP would be distributed according to a “thirdening” schedule. Similar to Bitcoin’s halvening, where token issuance is decreased by half every four years, in PoolParty, the XP distribution will be cut by ⅓ every two months.
+
+This XP will be distributed among the different Pools of the protocol. The entire distribution structure is yet to be decided by the Team and advisors.
 
