@@ -11,6 +11,9 @@
 
 * [Tokenomics](poolparty/tokenomics.md)
 * [Shade Protocol X PoolParty](poolparty/shade-protocol-x-poolparty.md)
+* [sNFT in PoolParty](poolparty/snft-in-poolparty/README.md)
+  * [Ducky sNFT](poolparty/snft-in-poolparty/ducky-snft.md)
+  * [Booster sNFT](poolparty/snft-in-poolparty/booster-snft.md)
 
 ## Security
 
