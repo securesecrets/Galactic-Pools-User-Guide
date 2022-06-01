@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-# 🧠 Ideology and Roadmap
+# Ideology and Roadmap
 
 ### Ideology
 

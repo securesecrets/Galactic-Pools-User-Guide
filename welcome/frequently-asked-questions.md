@@ -1,10 +1,10 @@
-# ❓ Frequently Asked Questions
+# Frequently Asked Questions
 
 ## General
 
 ### Where does the prize money come from?
 
-Prizes are generated on the staking rewards earned on deposited funds.&#x20;
+Prizes are generated on the staking rewards earned on deposited tokens.&#x20;
 
 ### Do I have to enter for each prize?&#x20;
 
@@ -59,5 +59,5 @@ There's no prize cap yet, which means anyone can win as many prizes as possible.
 
 ### What is the maximum period before I can claim prizes?
 
-Prizes should be claimed within 45 days of them being awarded. Unclaimed rewards will be diverted back to the pool **reserves** to increase the total yield for the tips.
+Prizes should be claimed within 45 days of them being awarded. Unclaimed rewards will be diverted back to the pool **reserves** to increase the total staking reward for the prizes. Like other variables, this can be changed on how the community sees fit.
 
