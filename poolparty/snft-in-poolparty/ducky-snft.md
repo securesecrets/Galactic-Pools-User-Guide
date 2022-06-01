@@ -14,6 +14,10 @@ Every user will get a specific XP based on the % of liquidity they provided duri
 
 Initial sNFT would be primary and need XP(Experience Points) to upgrade/customize the NFT avatar. Higher the XP points are more new traits, and gadgets start to get unlocked.
 
+Users can either use the XP received on providing liquidity to the pool or buy some from stashh.io to upgrade their Ducky sNFT. <mark style="color:red;">TODO: INSERT DIAGRAM</mark>
+
+User can either use their XP to upgrade their sNFT to sell XP as an sNFT on the stashh.io&#x20;
+
 ### XP Distribution Schedule
 
 Under the initial XP model, XP would be distributed according to a “thirdening” schedule. Similar to Bitcoin’s halvening, where token issuance is decreased by half every four years, in PoolParty, the XP distribution will be cut by ⅓ every two months.
