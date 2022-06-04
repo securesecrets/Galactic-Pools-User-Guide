@@ -1,5 +1,5 @@
 ---
-description: Killing Boring saving accounts with the power of DeFi.
+description: Killing boring saving accounts with the power of DeFi.
 ---
 
 # About PoolParty
