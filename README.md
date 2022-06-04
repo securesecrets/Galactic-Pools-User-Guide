@@ -6,7 +6,7 @@ description: Killing Boring saving accounts with the power of DeFi.
 
 **REMINDER: THIS IS A DRAFT OF THE POOLPARTY USER GUIDE.  A FEW MODIFICATIONS COULD BE EXPECTED IN THE COMING FUTURE.**
 
-## What is PoolParty
+## What is PoolParty?
 
 PoolParty is a decentralized and open-source blockchain protocol for prize-linked savings.&#x20;
 
