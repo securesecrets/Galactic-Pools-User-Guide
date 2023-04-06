@@ -2,13 +2,13 @@
 description: Killing boring saving accounts with the power of DeFi.
 ---
 
-# About PoolParty
+# About Galactic Pools
 
-**REMINDER: THIS IS A DRAFT OF THE POOLPARTY USER GUIDE.  A FEW MODIFICATIONS COULD BE EXPECTED IN THE COMING FUTURE.**
+**REMINDER: THIS IS A DRAFT OF THE GALACTIC POOLS USER GUIDE.  A FEW MODIFICATIONS COULD BE EXPECTED IN THE COMING FUTURE.**
 
 ## What is PoolParty?
 
-PoolParty is a decentralized and open-source blockchain protocol for prize-linked savings.&#x20;
+Galactic Pools is a decentralized and open-source blockchain protocol for prize-linked savings.&#x20;
 
 Replacing "[prize-linked savings accounts](https://en.wikipedia.org/wiki/Prize-linked\_savings\_account)," all depositors are offered a chance to win prizes without risking their deposited tokens. This is possible because prizes are made up of the staking rewards.
 
@@ -18,7 +18,7 @@ Replacing "[prize-linked savings accounts](https://en.wikipedia.org/wiki/Prize-l
 
 🏆 The rewards are randomly awarded as prizes to the users.
 
-🖼 Earn XP based on the liquidity provided; uses XP to Upgrade their customizable DUCKY NFT.
+🖼 Earn XP based on the liquidity provided.
 
 💉 Users get a specific boost next round if they haven't won any previous prize round.
 
